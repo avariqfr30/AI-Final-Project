@@ -1,6 +1,6 @@
 # Artificial Intelligence Final Project - Deep Learning Based Virtual Therapist
 
-Made by :
+## Made by :
 
 Avariq Fazlur Rahman - 2502043002
 
