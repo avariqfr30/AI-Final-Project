@@ -8,4 +8,4 @@ Bayu Hartho - SID
 
 Bernard Choa - SID
 
-Sandrian Wardana - SID
+Sandrian Wardana - 2502016411
